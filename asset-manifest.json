@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.e20ddb9a.chunk.css",
-    "main.js": "/MyPortfolio/static/js/main.af380b0a.chunk.js",
-    "main.js.map": "/MyPortfolio/static/js/main.af380b0a.chunk.js.map",
-    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.2ad6f63b.js",
-    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.2ad6f63b.js.map",
-    "static/js/2.33000ec5.chunk.js": "/MyPortfolio/static/js/2.33000ec5.chunk.js",
-    "static/js/2.33000ec5.chunk.js.map": "/MyPortfolio/static/js/2.33000ec5.chunk.js.map",
-    "index.html": "/MyPortfolio/index.html",
-    "static/css/main.e20ddb9a.chunk.css.map": "/MyPortfolio/static/css/main.e20ddb9a.chunk.css.map",
-    "static/js/2.33000ec5.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.33000ec5.chunk.js.LICENSE.txt"
+    "main.css": "/my-birthdaycalender/static/css/main.e20ddb9a.chunk.css",
+    "main.js": "/my-birthdaycalender/static/js/main.af380b0a.chunk.js",
+    "main.js.map": "/my-birthdaycalender/static/js/main.af380b0a.chunk.js.map",
+    "runtime-main.js": "/my-birthdaycalender/static/js/runtime-main.46788aae.js",
+    "runtime-main.js.map": "/my-birthdaycalender/static/js/runtime-main.46788aae.js.map",
+    "static/js/2.33000ec5.chunk.js": "/my-birthdaycalender/static/js/2.33000ec5.chunk.js",
+    "static/js/2.33000ec5.chunk.js.map": "/my-birthdaycalender/static/js/2.33000ec5.chunk.js.map",
+    "index.html": "/my-birthdaycalender/index.html",
+    "static/css/main.e20ddb9a.chunk.css.map": "/my-birthdaycalender/static/css/main.e20ddb9a.chunk.css.map",
+    "static/js/2.33000ec5.chunk.js.LICENSE.txt": "/my-birthdaycalender/static/js/2.33000ec5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ad6f63b.js",
+    "static/js/runtime-main.46788aae.js",
     "static/js/2.33000ec5.chunk.js",
     "static/css/main.e20ddb9a.chunk.css",
     "static/js/main.af380b0a.chunk.js"
